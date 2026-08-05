@@ -98,7 +98,3 @@ python main.py
 ## 📜 授權條款 (License)
 
 本專案採用 [MIT License](https://www.google.com/search?q=LICENSE) 授權。
-
-```
-
-```
